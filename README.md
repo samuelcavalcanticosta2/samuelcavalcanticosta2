@@ -6,8 +6,8 @@
 - Technologist in **Systems Analysis and Development** (UNINTER)
 - Postgraduate Specialization in **Information Security** (Gran Faculdade)
 - Postgraduate Specialization in **IT Governance** (Gran Faculdade)
-- Bachelor’s in **Business Administration** (Gran Faculdade – in progress, expected 2027)
-- Certified **CPA-10** – Brazilian Financial Professionals Certificate (ANBIMA, active until 2027)
+- Bachelor’s in **Business Administration** (Gran Faculdade – expected 2027)
+- Certified **CPA-10** – Brazilian Financial Professionals Certificate (ANBIMA – active until 2027)
 - Working remotely as **Multiskill Call Center Operator** at Contax S.A.
 - EB-2 NIW process in progress
 - Passionate about cybersecurity, systems development and open-source projects
