@@ -52,3 +52,5 @@ Advanced monitoring and visualization system focused on real-time security, data
 ---
 
 ⭐ If you like any project, feel free to star it and contribute!
+
+# PIX: presidentescc@outlook.com
