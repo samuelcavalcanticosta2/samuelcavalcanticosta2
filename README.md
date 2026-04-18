@@ -29,7 +29,10 @@ Open-source microkernel real-time operating system and framework developed for a
 - [AIBus-OS 1.0](https://github.com/samuelcavalcanticosta2/aibus-os-1.0)
 
 **👁️ HEART'N'EYES**  
-Advanced monitoring system.
+Advanced monitoring and visualization system focused on real-time security, data analysis and system oversight.
+
+**Versions:**
+- [HEART'N'EYES 1.0](https://github.com/samuelcavalcanticosta2/heart-n-eyes-1.0)
 
 ---
 
