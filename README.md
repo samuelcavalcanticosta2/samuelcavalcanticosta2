@@ -22,8 +22,11 @@ Advanced cross-platform cybersecurity tool with 50+ protection mechanisms agains
 - [HNAP 1.0](https://github.com/samuelcavalcanticosta2/hnap-1.0) — HNAP 1.0
 
 **🚌 AIBus-OS**  
-Open-source microkernel real-time operating system / framework for autonomous buses and public transportation.  
-→ Versions: [2.0](https://github.com/samuelcavalcanticosta/aibus-os-2.0) | [1.0](https://github.com/samuelcavalcanticosta/aibus-os-1.0)
+Open-source microkernel real-time operating system and framework developed for autonomous buses and intelligent public transportation systems. A free, secure and efficient solution for modern mobility.
+
+**Versions:**
+- [AIBus-OS 2.0](https://github.com/samuelcavalcanticosta2/aibus-os-2.0) — Latest version
+- [AIBus-OS 1.0](https://github.com/samuelcavalcanticosta2/aibus-os-1.0)
 
 **👁️ HEART'N'EYES**  
 Advanced monitoring system.
