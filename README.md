@@ -1,34 +1,35 @@
-# Olá, eu sou Samuel Cavalcanti Costa 👋
+# Hi there, I'm Samuel Cavalcanti Costa 👋
 
-🧿 **Creator** de projetos open-source: **HNAP** (segurança) e **AIBus-OS** (transporte autônomo).
+🛡️ **Creator** of open-source projects focused on **cybersecurity** and **autonomous systems**.
 
-### Sobre mim
-- Graduado em **Análise e Desenvolvimento de Sistemas** (Gran Faculdade)
-- Pós-graduado em **Segurança da Informação e Governança de TI**
-- Cursando **Administração**
-- Atuo como **IT Support | Systems Development | InfoSec** na Contax S.A. (remoto)
-- Processo EB-2 NIW em andamento
+### About Me
+- Bachelor's in **Analysis and Systems Development** (Gran Faculdade)
+- Postgraduate in **Information Security and IT Governance**
+- Currently studying **Business Administration**
+- Working as **IT Support | Systems Development | InfoSec** at Contax S.A. (remote)
+- EB-2 NIW process in progress
 
-### Principais projetos
+### Main Projects
 
-**🔒 HNAP (HERE NOT ANTI PENTEST)**
-- Ferramenta cross-platform de proteção contra pentest, keylogger, miner, injection, rootkit e mais.
-- Versões: [5.0](https://github.com/samuelcavalcanticosta2/HERE-NOT-ANTI-PENTEST-5.0) | [2.0](https://github.com/samuelcavalcanticosta2/HERE-NOT-ANTI-PENTEST-2.0) | ...
+**🔒 HNAP - HERE NOT ANTI PENTEST**
+- Advanced cross-platform security tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, injections and more.
+- Versions: [5.0](https://github.com/samuelcavalcanticosta/HERE-NOT-ANTI-PENTEST-5.0) | [2.0](https://github.com/samuelcavalcanticosta/HERE-NOT-ANTI-PENTEST-2.0) | older versions available
 
 **🚌 AIBus-OS**
-- Sistema operacional microkernel em tempo real para ônibus autônomos e transporte público gratuito.
-- Versões: [2.0](https://github.com/samuelcavalcanticosta2/AIBus-OS-2.0) | [1.0](https://github.com/samuelcavalcanticosta2/AIBus-OS-1.0)
+- Open-source microkernel real-time operating system / framework for autonomous buses and public transportation.
+- Versions: [2.0](https://github.com/samuelcavalcanticosta/AIBus-OS-2.0) | [1.0](https://github.com/samuelcavalcanticosta/AIBus-OS-1.0)
 
 **👁️ HEART'N'EYES**
-- Sistema de monitoramento avançado.
+- Advanced monitoring system.
 
 ---
 
-**Tecnologias que domino**: C#, .NET, Segurança de sistemas, Linux, Windows, Android, MQL5 (trading) e mais.
+**Technologies**: C#, .NET, Python, Cybersecurity, Linux, Windows, Android, MQL5, among others.
 
-📫 **Contato**:
-- LinkedIn: [samuelcavalcanticosta11](https://www.linkedin.com/in/samuelcavalcanticosta11/)
-- X: [@Samuelcc91](https://x.com/Samuelcc91)
+📫 **Get in touch**:
+- LinkedIn → [samuelcavalcanticosta11](https://www.linkedin.com/in/samuelcavalcanticosta11/)
+- X (Twitter) → [@Samuelcc91](https://x.com/Samuelcc91)
 
 ---
-⭐ Se gostou dos projetos, dá uma estrela e considere contribuir!
+
+⭐ If you like the projects, feel free to star them and contribute!
