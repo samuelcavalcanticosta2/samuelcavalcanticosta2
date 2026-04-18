@@ -2,6 +2,9 @@
 
 🛡️ Creator of open-source projects focused on **cybersecurity** and **autonomous systems**.
 
+> **Note**  
+> My previous GitHub accounts (`samuelcavalcanticosta` and `samuelcavalcanticosta1`) were lost due to access issues. All projects and contributions have been fully migrated to this account.
+
 ### About Me
 - Technologist in **Systems Analysis and Development** (UNINTER)
 - Postgraduate Specialization in **Information Security** (Gran Faculdade)
