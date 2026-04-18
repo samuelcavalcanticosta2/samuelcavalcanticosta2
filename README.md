@@ -12,8 +12,14 @@
 ### Main Projects
 
 **🔒 HNAP - HERE NOT ANTI PENTEST**  
-Advanced cross-platform security tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, code injections and more.  
-→ Versions: [5.0](https://github.com/samuelcavalcanticosta/hnap-5.0) | [2.0](https://github.com/samuelcavalcanticosta/hnap-2.0) | [older](https://github.com/samuelcavalcanticosta?tab=repositories&q=hnap)
+Advanced cross-platform cybersecurity tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, injections and malware.
+
+**Versions:**
+- [HNAP 5.0](https://github.com/samuelcavalcanticosta2/hnap-5.0) — Latest version
+- [HNAP 4.0](https://github.com/samuelcavalcanticosta2/hnap-4.0) — HNAP 4.0
+- [HNAP 3.0](https://github.com/samuelcavalcanticosta2/hnap-3.0)
+- [HNAP 2.0](https://github.com/samuelcavalcanticosta2/hnap-2.0)
+- [HNAP 1.0](https://github.com/samuelcavalcanticosta2/hnap-1.0)
 
 **🚌 AIBus-OS**  
 Open-source microkernel real-time operating system / framework for autonomous buses and public transportation.  
