@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel Cavalcanti Costa 👋
 
-🛡️ **Creator** of open-source projects focused on **cybersecurity** and **autonomous systems**.
+🛡️ Creator of open-source projects focused on **cybersecurity** and **autonomous systems**.
 
 ### About Me
 - Bachelor's in **Analysis and Systems Development** (Gran Faculdade)
@@ -11,25 +11,25 @@
 
 ### Main Projects
 
-**🔒 HNAP - HERE NOT ANTI PENTEST**
-- Advanced cross-platform security tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, injections and more.
-- Versions: [5.0](https://github.com/samuelcavalcanticosta/HERE-NOT-ANTI-PENTEST-5.0) | [2.0](https://github.com/samuelcavalcanticosta/HERE-NOT-ANTI-PENTEST-2.0) | older versions available
+**🔒 HNAP - HERE NOT ANTI PENTEST**  
+Advanced cross-platform security tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, code injections and more.  
+→ Versions: [5.0](https://github.com/samuelcavalcanticosta/hnap-5.0) | [2.0](https://github.com/samuelcavalcanticosta/hnap-2.0) | [older](https://github.com/samuelcavalcanticosta?tab=repositories&q=hnap)
 
-**🚌 AIBus-OS**
-- Open-source microkernel real-time operating system / framework for autonomous buses and public transportation.
-- Versions: [2.0](https://github.com/samuelcavalcanticosta/AIBus-OS-2.0) | [1.0](https://github.com/samuelcavalcanticosta/AIBus-OS-1.0)
+**🚌 AIBus-OS**  
+Open-source microkernel real-time operating system / framework for autonomous buses and public transportation.  
+→ Versions: [2.0](https://github.com/samuelcavalcanticosta/aibus-os-2.0) | [1.0](https://github.com/samuelcavalcanticosta/aibus-os-1.0)
 
-**👁️ HEART'N'EYES**
-- Advanced monitoring system.
+**👁️ HEART'N'EYES**  
+Advanced monitoring system.
 
 ---
 
-**Technologies**: C#, .NET, Python, Cybersecurity, Linux, Windows, Android, MQL5, among others.
+**Technologies I work with**: C#, .NET, Cybersecurity, Linux, Windows, Android, Python, MQL5, among others.
 
 📫 **Get in touch**:
-- LinkedIn → [samuelcavalcanticosta11](https://www.linkedin.com/in/samuelcavalcanticosta11/)
+- LinkedIn → [Samuel Cavalcanti Costa](https://www.linkedin.com/in/samuelcavalcanticosta11/)
 - X (Twitter) → [@Samuelcc91](https://x.com/Samuelcc91)
 
 ---
 
-⭐ If you like the projects, feel free to star them and contribute!
+⭐ If you like any project, feel free to star it and contribute!
