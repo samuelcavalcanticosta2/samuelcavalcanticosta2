@@ -22,7 +22,7 @@
 Advanced cross-platform cybersecurity tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, injections and malware.
 
 **Versions:**
-- [HNAP 6.0](https://github.com/samuelcavalcanticosta2/HNAP/issues/1) — HNAP (THE END)
+- [HNAP - THE END](https://github.com/samuelcavalcanticosta2/HNAP/issues/1) — HNAP (THE END)
 - [HNAP 6.0](https://github.com/samuelcavalcanticosta2/HNAP-6.0---HERE-NOT-ANTI-PENTEST) — HNAP 6.0 (Latest version)
 - [HNAP 5.0](https://github.com/SamuelCavalcantiCosta/HERE-NOT-ANTI-PENTEST-5.0) — HNAP 5.0
 - [HNAP 4.0](https://github.com/SamuelCavalcantiCosta/HERE-NOT-ANTI-PENTEST-4.0-HNAP-4.0-) — HNAP 4.0
