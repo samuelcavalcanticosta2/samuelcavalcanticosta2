@@ -1,20 +1,7 @@
 # Hi there, I'm Samuel Cavalcanti Costa 👋
 
-🛡️ Creator of open-source projects focused on **cybersecurity** and **autonomous systems**.
-
 > **Note**  
 > My previous GitHub accounts (`samuelcavalcanticosta` and `samuelcavalcanticosta1`) were lost due to access issues. All projects and contributions have been fully migrated to this account.
-
-### About Me
-- Technologist in **Systems Analysis and Development** (UNINTER)
-- Postgraduate Specialization in **Information Security** (Gran Faculdade)
-- Postgraduate Specialization in **IT Governance** (Gran Faculdade)
-- Bachelor’s in **Business Administration** (Gran Faculdade – expected 2027)
-- Certified **CPA-10** – Brazilian Financial Professionals Certificate (ANBIMA – active until 2027)
-- Working remotely as **Multiskill Call Center Operator** at Contax S.A.
-- EB-2 NIW process in progress
-- Passionate about cybersecurity, systems development and open-source projects
-
 
 ### Main Projects
 
@@ -42,14 +29,6 @@ Advanced monitoring and visualization system focused on real-time security, data
 
 **Versions:**
 - [HEART'N'EYES 1.0](https://github.com/samuelcavalcanticosta/heart-n-eyes-1.0)
-
----
-
-**Technologies I work with**: C#, .NET, Cybersecurity, Linux, Windows, Android, Python, MQL5, among others.
-
-📫 **Get in touch**:
-- LinkedIn → [Samuel Cavalcanti Costa](https://www.linkedin.com/in/samuelcavalcanticosta11/)
-- X (Twitter) → [@Samuelcc91](https://x.com/Samuelcc91)
 
 ---
 
