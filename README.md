@@ -8,7 +8,7 @@
 
 ROBO TRADER PARA MINI INDICE DA B3. POR ALGUM MOTIVO, NÃO CONSIGO USAR. MAS DEIXO LIVRE PARA QUEM QUISER TESTAR. 
 
-[SCCB3](https://github.com/samuelcavalcanticosta2/SCCB3/issues)
+- [SCCB3](https://github.com/samuelcavalcanticosta2/SCCB3/issues)
 
  ===
  
