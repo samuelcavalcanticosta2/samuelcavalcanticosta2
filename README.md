@@ -4,7 +4,7 @@
 > My previous GitHub accounts (`samuelcavalcanticosta` and `samuelcavalcanticosta1`) were lost due to access issues. All projects and contributions have been fully migrated to this account.
 
 
-//====
+//=========================================================================
 
 # (ONLY BRAZIL) 🤖 
 ROBO TRADER PARA MINI INDICE DA B3.  <br>
@@ -13,8 +13,8 @@ POR ALGUM MOTIVO, NÃO CONSIGO USAR. MAS DEIXO LIVRE PARA QUEM QUISER TESTAR.  <
 
 - [SCCB3](https://github.com/samuelcavalcanticosta2/SCCB3/issues)
 
- ===
- 
+//=========================================================================
+
 ### Main Projects
 
 **🔒 HNAP - HERE NOT ANTI PENTEST**  
@@ -46,9 +46,7 @@ Advanced monitoring and visualization system focused on real-time security, data
 **Versions:**
 - [HEART'N'EYES 1.0](https://github.com/samuelcavalcanticosta/heart-n-eyes-1.0)
 
-
-//====
- 
+//========================================================================= 
 
 ⭐ If you like any project, feel free to star it and contribute!
 
