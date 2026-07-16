@@ -1,6 +1,6 @@
-# Hi there, I'm Samuel Cavalcanti Costa 👋
+# Hi there, I'm Samuel Cavalcanti Costa 👋🤖
 
-> **Note**  
+> **Note**  🤖
 > My previous GitHub accounts (`samuelcavalcanticosta` and `samuelcavalcanticosta1`) were lost due to access issues. All projects and contributions have been fully migrated to this account.
 
 
@@ -15,7 +15,7 @@ POR ALGUM MOTIVO, NÃO CONSIGO USAR. MAS DEIXO LIVRE PARA QUEM QUISER TESTAR.  <
 
 //====================================================================
 
-### Main Projects
+# Main Projects 🤖
 
 **🔒 HNAP - HERE NOT ANTI PENTEST**  
 Advanced cross-platform cybersecurity tool with 50+ protection mechanisms against penetration testing, keyloggers, miners, rootkits, injections and malware.
@@ -48,6 +48,6 @@ Advanced monitoring and visualization system focused on real-time security, data
 
 //==================================================================== 
 
-⭐ If you like any project, feel free to star it and contribute!
+⭐ If you like any project, feel free to star it and contribute! 🤖
 
 # PIX: presidentescc@outlook.com
