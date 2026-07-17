@@ -51,3 +51,6 @@ Advanced monitoring and visualization system focused on real-time security, data
 ⭐ If you like any project, feel free to star it and contribute! 🤖
 
 # PIX: presidentescc@outlook.com
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
