@@ -7,9 +7,9 @@
 //====================================================================
 
 # (ONLY BRAZIL) 🤖 
-ROBO TRADER PARA MINI INDICE DA B3.  <br>
-POR ALGUM MOTIVO, NÃO CONSIGO USAR. MAS DEIXO LIVRE PARA QUEM QUISER TESTAR.  <br>
-(SE CONSEGUIR, FALA COMIGO.)
+Robô trader para mini indice da B3.  <br>
+Por algum motivo, nao consigo usar. Mas deixo livre para quem quiser testar.  <br>
+(Se conseguir, fala comigo.)
 
 - [SCCB3](https://github.com/samuelcavalcanticosta2/SCCB3/issues)
 
