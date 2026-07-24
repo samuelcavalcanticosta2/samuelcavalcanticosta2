@@ -49,10 +49,3 @@ Advanced monitoring and visualization system focused on real-time security, data
 - [HEART'N'EYES 1.0](https://github.com/samuelcavalcanticosta/heart-n-eyes-1.0)
 
 //==================================================================== 
-
-⭐ If you like any project, feel free to star it and contribute! 🤖
-
-# PIX: presidentescc@outlook.com
-
-//====================================================================
-
