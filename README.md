@@ -5,6 +5,8 @@
 > **Note**  🤖
 > My previous GitHub accounts (`samuelcavalcanticosta` and `samuelcavalcanticosta1`) were lost due to access issues. All projects and contributions have been fully migrated to this account.
 
+//=================================================================
+
 # 🎓 Education & Certifications
 
 * **Postgraduate Degree in IT Governance** — Gran Faculdade *(Aug 2023 – Jan 2024)*
