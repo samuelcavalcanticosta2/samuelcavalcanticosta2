@@ -16,7 +16,7 @@
 ### 📜 Certifications
 * **CPA-10 (Brazilian Financial Professionals Certificate)** — ANBIMA
 
-//==============================================================================
+//====================================================================
 
 # 💼 Professional Experience
 
