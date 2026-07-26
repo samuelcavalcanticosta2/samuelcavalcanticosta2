@@ -1,4 +1,4 @@
-//====================================================================
+//=================================================================
 
 # Hi there, I'm Samuel Cavalcanti Costa 👋🤖
 
@@ -16,7 +16,7 @@
 ### 📜 Certifications
 * **CPA-10 (Brazilian Financial Professionals Certificate)** — ANBIMA
 
-//====================================================================
+//=================================================================
 
 # 💼 Professional Experience
 
@@ -33,7 +33,7 @@
 ### **Martins Rabelo LTDA** — *General Office Assistant*
 *(Dec 2011 – Feb 2012 | On-site)*
 * Supported general office administrative tasks, customer inquiry resolution, and inventory management.
-//====================================================================
+//=================================================================
 
 # (ONLY BRAZIL) 🤖 
 Robô trader para mini indice da B3.  <br>
@@ -42,7 +42,7 @@ Por algum motivo, nao consigo usar. Mas deixo livre para quem quiser testar.  <b
 
 - [SCCB3](https://github.com/samuelcavalcanticosta2/SCCB3/issues)
 
-//====================================================================
+//=================================================================
 
 # Main Projects 🤖
 
