@@ -5,36 +5,6 @@
 
 //=================================================================
 
-# 🎓 Education & Certifications
-
-* **Postgraduate Degree in IT Governance** — Gran Faculdade *(Aug 2023 – Jan 2024)*
-* **Postgraduate Degree in Computer & Information Systems Security / Information Assurance** — Gran Faculdade *(Aug 2023 – Jan 2024)*
-* **Associate Degree in Systems Analysis and Development** — UNINTER *(Mar 2021 – Oct 2023)*
-* **Bachelor's Degree in Business Administration** — Gran Faculdade *(Apr 2024 – Mar 2027)*
-* **Associate Degree in Public and Private Security Management** — FACOL *(Apr 2022 – Oct 2022)*
-
-### 📜 Certifications
-* **CPA-10 (Brazilian Financial Professionals Certificate)** — ANBIMA
-
-//=================================================================
-
-# 💼 Professional Experience
-
-### **Grupo Contax** — *Customer Service Representative*
-*(May 2022 – April 2026 | Remote)*
-* Handled high-volume multi-channel inbound and outbound interactions via phone, chat, and email in a fast-paced remote setup.
-* Delivered technical support, Level 1/Level 2 troubleshooting, and system issue resolution, consistently maintaining high CSAT, FCR, and SLA compliance.
-* Managed enterprise CRM databases, logging interactions and ensuring accurate data entry and record integrity.
-
-### **Madero Indústria e Comércio S.A.** — *Valet Attendant / Passenger Car Driver*
-*(Dec 2018 – Jan 2019 | On-site)*
-* Provided customer service and vehicle management for restaurant guests.
-
-### **Martins Rabelo LTDA** — *General Office Assistant*
-*(Dec 2011 – Feb 2012 | On-site)*
-* Supported general office administrative tasks, customer inquiry resolution, and inventory management.
-//=================================================================
-
 # (ONLY BRAZIL) 🤖 
 Robô trader para mini indice da B3.  <br>
 Por algum motivo, nao consigo usar. Mas deixo livre para quem quiser testar.  <br>
